@@ -1,6 +1,6 @@
 # Spotify Music Sharing
 
-#### By Daniel Sun
+#### By Daniel Sun and Oscar Xue
 
 ## What is this?
 
